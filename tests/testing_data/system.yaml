@@ -1,0 +1,4 @@
+jwt:
+  jwt_secret_key: "myjwtsecret"
+  jwt_algorithm: "HS256"
+  expiration: 30
